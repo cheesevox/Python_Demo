@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Clock/.idea/Clock.iml" filepath="$PROJECT_DIR$/../Clock/.idea/Clock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SnakeLine.iml" filepath="$PROJECT_DIR$/.idea/SnakeLine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../doraemon/.idea/doraemon.iml" filepath="$PROJECT_DIR$/../doraemon/.idea/doraemon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ramdom/.idea/ramdom.iml" filepath="$PROJECT_DIR$/../ramdom/.idea/ramdom.iml" />
+    </modules>
+  </component>
+</project>
